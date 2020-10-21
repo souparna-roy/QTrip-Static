@@ -48,15 +48,15 @@ footer {
 /* ================================== */
 
 .tile {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
 }
 .tile img {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
 }
 .tile img:hover {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
 }
 
@@ -74,7 +74,7 @@ footer {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("/assets/hero.jpg");
 
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_LAYOUT */
   /* 1. Set a specific height. */
   /* 2. Position and center the image to scale nicely on all screens. */
 }
@@ -100,15 +100,15 @@ footer {
 /* ================================== */
 
 .adventure-card {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_ADVENTURES_GRID */
   /* 1. */
 }
 .adventure-card img {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_ADVENTURES_GRID */
   /* 1.  */
 }
 .adventure-card img:hover {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_ADVENTURES_GRID */
   /* 1.  */
 }
 
@@ -117,17 +117,17 @@ footer {
 /* ================================== */
 
 .adventure-detail-card {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_ADVENTURE_DETAILS */
   /* 1.  */
 
 }
 
 .adventure-card-image {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_ADVENTURE_DETAILS */
   /* 1.  */
 }
 .adventure-card-image:hover {
-  /* TODO: CRIO_TASK_MODULE_LAYOUT */
+  /* TODO: MODULE_ADVENTURE_DETAILS */
   /* 1.  */
 }
 .experience-content ul li {
