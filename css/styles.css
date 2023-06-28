@@ -52,6 +52,7 @@ footer {
   /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
   height: 100%;
+  width: 100%;
   overflow: hidden;
   color: white;
   display: flex;
