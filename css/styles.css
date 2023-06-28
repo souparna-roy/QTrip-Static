@@ -51,15 +51,33 @@ footer {
 .tile {
   /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
+  height: 100%;
+  overflow: hidden;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  text-align: center;
+  border-radius: 0.5rem;
 }
 .tile img {
   /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
+  height: 100%;
+  width: 100%;
+  border-radius: 0.5rem;
+  transition: 0.2s all;
+  cursor: pointer;
 }
 .tile img:hover {
   /* TODO: MODULE_CARDS */
   /* 1. Fill in the required properties. */
+  filter: brightness(50%);
+  transform: scale(1.1);
 }
+/* .tile-text{
+  text-align: center;
+} */
 
 /* Hint: Notice the position:absolute and z-index properties. */
 /* Think about how those in relation to the existing "tile" classes. */
@@ -85,6 +103,7 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-repeat: no-repeat;
 }
 
 .hero-subheading {
