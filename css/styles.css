@@ -137,7 +137,11 @@ footer {
 /* ================================== */
 /* Adventures grid page CSS */
 /* ================================== */
-
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
 .adventure-card {
   /* TODO: MODULE_ADVENTURES_GRID */
   /* 1. Fill in the required properties. */
