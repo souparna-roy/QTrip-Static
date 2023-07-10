@@ -179,13 +179,7 @@ footer {
   /* TODO: MODULE_ADVENTURE_DETAILS */
   /* 1. Fill in the required properties. */
   padding: 1rem;
-  border: 1px lightgray solid;
-  border-radius: 0.25rem;
-  margin-bottom: 1rem;
-}
-.sold-out-card {
-  padding: 1rem;
-  border: 1px lightgray solid;
+  border: 1px #eee solid;
   border-radius: 0.25rem;
   margin-bottom: 1rem;
 }
@@ -210,12 +204,7 @@ footer {
 @media only screen and (min-width: 992px) {
   /* For desktops phones: */
   #reservation {
-    width: 400px;
+    width: 300px;
     position: fixed;
-  }
-}
-@media only screen and (max-width: 991px) {
-  #reservation {
-    position: static;
   }
 }
