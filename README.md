@@ -22,7 +22,7 @@ During the course of this project,
   <li>Deployed the website to Netlify</li>
 </ul>
 
-![Design preview for the QR code component coding challenge](./qr-code-component-main/design/desktop-preview.jpg)
+![QTrip Landing Page](./Images/landing-page.png)
 
 ## Implement the adventures page
 
