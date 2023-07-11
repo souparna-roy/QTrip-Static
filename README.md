@@ -3,13 +3,11 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Implement the adventures page](#Implement-the-adventures-page)
 - [Create a layout for the landing page and make it responsive](#Create-a-layout-for-the-landing-page-and-make-it-responsive)
+- [Implement the adventures page](#Implement-the-adventures-page)
 - [Add the adventure details page to complete the static web page features](#Add-the-adventure-details-page-to-complete-the-static-web-page-features)
 - [Deploy the QTripStatic website](#Deploy-the-QTripStatic-website)
 - [Author](#author)
-
-
 
 
 ## Overview
@@ -23,20 +21,13 @@ During the course of this project,
 </ul>
 
 ![QTrip Landing Page](./Images/landing-page.png)
-<p style="text-align : justify;">Qtrip Landing Page</p>
+QTrip Landing Page
 
-## Implement the adventures page
+![QTrip Adventures Page](./Images/adventure-cards.png)
+QTrip Adventures Page
 
-### Scope of work
-<ul>
-  <li>Created a responsive grid of adventures using Bootstrap’s grid</li>
-  <li>Made adventure type and price text on the cards responsive using Bootstrap’s flex containers</li>
-  <li>Added proper spacing between the adventure’s grid using Bootstrap spacing shorthands</li>
-  <li>Made the images to be responsive using Bootstrap’s responsive image classes</li>
-</ul>
-
-### Skills used
-HTML, CSS, Bootstrap, Bootstrap Flex, Bootstrap Spacing, Bootstrap Responsive Images
+![QTrip Adventure Details Page](./Images/adventure-details-page.png)
+QTrip Adventure Details Page
 
 ## Create a layout for the landing page and make it responsive
 
@@ -51,6 +42,31 @@ HTML, CSS, Bootstrap, Bootstrap Flex, Bootstrap Spacing, Bootstrap Responsive Im
 ### Skills used
 HTML, CSS, CSS Flexbox, Responsive Design, Bootstrap, VS Code Live Server
 
+### Image(s)
+![Wireframe](./Images/wireframe-img.png)
+Wireframe used for building QTrip landing page
+
+![QTrip Landing Page](./Images/landing-page.png)
+QTrip Landing Page
+
+## Implement the adventures page
+
+### Scope of work
+<ul>
+  <li>Created a responsive grid of adventures using Bootstrap’s grid</li>
+  <li>Made adventure type and price text on the cards responsive using Bootstrap’s flex containers</li>
+  <li>Added proper spacing between the adventure’s grid using Bootstrap spacing shorthands</li>
+  <li>Made the images to be responsive using Bootstrap’s responsive image classes</li>
+</ul>
+
+### Skills used
+HTML, CSS, Bootstrap, Bootstrap Flex, Bootstrap Spacing, Bootstrap Responsive Images
+
+### Image(s)
+![Responsive Adventures Page](./Images/responsive-img.png)
+Adventures Page on different screen sizes
+
+
 ## Add the adventure details page to complete the static web page features
 
 ### Scope of work
@@ -62,6 +78,14 @@ HTML, CSS, CSS Flexbox, Responsive Design, Bootstrap, VS Code Live Server
 
 ### Skills used
 HTML, CSS, Bootstrap, Bootstrap Display, CSS Positioning
+
+### Image(s)
+![Wireframe](./Images/wireframe-img.png)
+Wireframe used for building Adventure details page
+
+![Adventure Details Page](./Images/adventure-details-responsive.png)
+Adventure Details Page on different screen sizes
+
 
 ## Deploy the QTripStatic website
 
