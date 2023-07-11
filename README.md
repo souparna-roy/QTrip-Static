@@ -2,11 +2,11 @@
 
 ## Table of contents
 
-- [Overview](###overview)
-- [Implement the adventures page](###Implement-the-adventures-page)
-- [Create a layout for the landing page and make it responsive](###Create-a-layout-for-the-landing-page-and-make-it-responsive)
-- [Add the adventure details page to complete the static web page features](###Add-the-adventure-details-page-to-complete-the-static-web-page-features)
-- [Deploy the QTripStatic website](###Deploy-the-QTripStatic-website)
+- [Overview](#overview)
+- [Implement the adventures page](#Implement-the-adventures-page)
+- [Create a layout for the landing page and make it responsive](#Create-a-layout-for-the-landing-page-and-make-it-responsive)
+- [Add the adventure details page to complete the static web page features](#Add-the-adventure-details-page-to-complete-the-static-web-page-features)
+- [Deploy the QTripStatic website](#Deploy-the-QTripStatic-website)
 - [Author](#author)
 
 
