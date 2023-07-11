@@ -1,4 +1,16 @@
 # QTrip-Static
+
+## Table of contents
+
+- [Overview](##overview)
+- [Implement the adventures page](##implement-the-adventures-page)
+  - [Scope of Work](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+
+
+
+
 ## Overview
 QTrip is a travel website aimed at travelers looking for a multitude of adventures in different cities. 
 
@@ -62,14 +74,6 @@ Deployment, Netlify, Netlify CLI
 
 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
 
 
 
