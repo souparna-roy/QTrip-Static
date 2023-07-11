@@ -23,7 +23,7 @@ During the course of this project,
 </ul>
 
 ![QTrip Landing Page](./Images/landing-page.png)
-<p style="text-alignment : justified;">Qtrip Landing Page</p>
+<p style="text-align : justify;">Qtrip Landing Page</p>
 
 ## Implement the adventures page
 
