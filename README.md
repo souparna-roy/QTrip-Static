@@ -23,6 +23,7 @@ During the course of this project,
 </ul>
 
 ![QTrip Landing Page](./Images/landing-page.png)
+<p class="text-center">Qtrip LAnding Page</p>
 
 ## Implement the adventures page
 
