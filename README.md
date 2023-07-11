@@ -3,9 +3,10 @@
 ## Table of contents
 
 - [Overview](##overview)
-- [Implement the adventures page](##implement-the-adventures-page)
-  - [Scope of Work](#built-with)
-  - [What I learned](#what-i-learned)
+- [Implement the adventures page](##Implement-the-adventures-page)
+- [Create a layout for the landing page and make it responsive](##Create-a-layout-for-the-landing-page-and-make-it-responsive)
+- [Add the adventure details page to complete the static web page features](##Add-the-adventure-details-page-to-complete-the-static-web-page-features)
+- [Deploy the QTripStatic website](##Deploy-the-QTripStatic-website)
 - [Author](#author)
 
 
@@ -71,37 +72,6 @@ HTML, CSS, Bootstrap, Bootstrap Display, CSS Positioning
 ### Skills used
 Deployment, Netlify, Netlify CLI
 
-
-
-
-
-
-
-## Overview
-
-### Screenshot
-
-![](./qr-code-component-main/qr-code.png)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- Bootstrapping
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-
-
-### What I learned
-
-I learned to use the card libraries related to bootstrapping and formed a better idea of how to work with different styles. I also learnt how to import different font styles in CSS.
 
 ## Author
 
