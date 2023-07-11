@@ -43,9 +43,6 @@ QTrip Adventure Details Page
 HTML, CSS, CSS Flexbox, Responsive Design, Bootstrap, VS Code Live Server
 
 ### Image(s)
-![Wireframe](./Images/wireframe-img.png)
-Wireframe used for building QTrip landing page
-
 ![QTrip Landing Page](./Images/landing-page.png)
 QTrip Landing Page
 
@@ -81,7 +78,7 @@ HTML, CSS, Bootstrap, Bootstrap Display, CSS Positioning
 
 ### Image(s)
 ![Wireframe](./Images/wireframe-img.png)
-Wireframe used for building Adventure details page
+<p>Wireframe used for building Adventure details page</p>
 
 ![Adventure Details Page](./Images/adventure-details-responsive.png)
 Adventure Details Page on different screen sizes
